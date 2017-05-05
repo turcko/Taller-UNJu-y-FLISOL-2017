@@ -1,3 +1,3 @@
-#Snake
+# Snake
 
 Archivos del juego Snake.
