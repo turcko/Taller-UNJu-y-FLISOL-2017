@@ -1,1 +1,1 @@
-# Práctica realizada durante la exposicin del taller.
+# Práctica realizada durante la exposición del taller.
